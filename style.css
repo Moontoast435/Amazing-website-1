@@ -1,0 +1,38 @@
+body {
+    width: 100vh;
+
+}
+
+ul {
+    font-size: 40px;
+    background-color: gold;
+
+}
+
+label {
+    font-size: 30px;
+}
+
+
+
+input {
+  
+    margin-left: 30px;
+}
+
+h1 {
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid purple;
+}
+
+img {
+    display: inline;
+    margin: 5px;
+}
+
+button {
+    font-size: 30px;
+
+}
