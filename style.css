@@ -1,6 +1,12 @@
-ol {
+body {
+    width: 100vh;
+
+}
+
+ul {
     font-size: 40px;
     background-color: gold;
+
 }
 
 label {
@@ -15,8 +21,10 @@ input {
 }
 
 h1 {
+    width: 100%;
     font-size: 50px;
-    margin-left: 400px;
+    text-align: center;
+    border: 5px solid purple;
 }
 
 img {
@@ -26,4 +34,5 @@ img {
 
 button {
     font-size: 30px;
+
 }
