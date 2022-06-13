@@ -1,0 +1,29 @@
+ol {
+    font-size: 40px;
+    background-color: gold;
+}
+
+label {
+    font-size: 30px;
+}
+
+
+
+input {
+  
+    margin-left: 30px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 400px;
+}
+
+img {
+    display: inline;
+    margin: 5px;
+}
+
+button {
+    font-size: 30px;
+}
